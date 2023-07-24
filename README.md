@@ -1,15 +1,43 @@
-<a href="url"><img src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" align="left" height="250" width="250" ></a>
-## 🚀 Alex Victor 
-Programador Python, Django, Flask, SQL-Server, My-SQL. Graduado em Gestão de Sistemas Informatizados (UNIRP - Centro Universitário de Rio Preto)
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-## 🔗 Contatos
-[![EMAIL](https://camo.githubusercontent.com/168f78544dd6c18761289e14363533c520439148b12d3bec2f9979af5e89d1bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d46463030463626636f6c6f723a464646)](mailto:alex.victor@outlook.com) [![LINKEDIN](https://camo.githubusercontent.com/e108b8066c2dc9fd7a9077b488844d49ed87d9d57916d8ee05344e5df851895b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d46463030463626636f6c6f723a464646)](https://www.linkedin.com/in/alexvcsantos/) [![INSTAGRAM](https://camo.githubusercontent.com/cbbe299a62c479442f9b548f41c533e82002855366fe07e157b268b7b513cba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d46463030463626636f6c6f723a464646)](https://www.instagram.com/alexvcsantos/)
+<h1>
+    <a href="https://elidianaandrade.github.io/">
+     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+    <span>Alex Victor</span>
+</h1>
 
+<p align="justify">Programador Python, Django, Flask, SQL-Server, My-SQL. Graduado em Gestão de Sistemas Informatizados (UNIRP - Centro Universitário de Rio Preto). 
+<br>
+  🛠 Habilidades
+  <br>- Python (Django, Flask, Pandas, Web-Scraping)
+  <br>- SQL-Server 
+  <br>- MY-SQL 
+  <br>- HTML e CSS (básico) 
+  <br>- Linux
+</p>
+<!--
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
+[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+-->
+<h3 align="left">Contatos:</h3>
 
-## 🛠 Habilidades
-- Python (Django, Flask, Pandas, Web-Scraping)
-- SQL-Server 
-- MY-SQL 
-- HTML e CSS (básico) 
-- Linux
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:alex.victor@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/alexvcsantos/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/alexvcsantos/)
 
+<h3 align="left">GitHub Stats</h3>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexvcsantos&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexvcsantos&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/alexvcsantos/github-readme-stats)-->
+<br>
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+ 
+  <div align="right">Made with 💜 by <a href="https://github.com/alexvcsantos">AV</a>.</div>
+
+</details>
