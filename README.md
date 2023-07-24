@@ -1,5 +1,5 @@
 <a href="url"><img src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" align="left" height="250" width="250" ></a>
-## 🚀 Alex Victor
+## 🚀 Alex Victor 
 Programador Python, Django, Flask, SQL-Server, My-SQL. Graduado em Gestão de Sistemas Informatizados (UNIRP - Centro Universitário de Rio Preto)
 
 ## 🔗 Contatos
